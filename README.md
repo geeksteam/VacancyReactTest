@@ -8,19 +8,19 @@ At first we have up and running backend server at `https://93.183.203.13:10443` 
 
 Basic login form:
 
-![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/LoginPage.png)
+![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginPage.png)
 
 Login success:
 
-![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/Success.png)
+![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/Success.png)
 
 Login failed:
 
-![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/LoginFailed.png)
+![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginFailed.png)
 
 HOTP code required:
 
-![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/HOTPcode.png)
+![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/HOTPcode.png)
 
 
 ### Описание JSON полей запроса для авторизации: ###
