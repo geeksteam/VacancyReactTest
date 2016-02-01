@@ -7,9 +7,10 @@ At first we have up and running backend server at `https://93.183.203.13:10443` 
 Your tasks are:
 
 - [x] Create authentication form using Bootstrap from sketch image attached below. Auth page must look __exactly__ as on a sketch image !
-- [x] Create AngularJS authentication logic depending on requests described below.
-- [x] Test it.
-- [x] Upload your code to your github repository and send the link to us.
+- [x] Create AngularJS authentication logic depending on requests described below;
+- [x] Your code must be good commented;
+- [x] Test it;
+- [x] Upload your code to your github repository and send the link to us;
 - [x] Got a job of your dream B)
 
 
