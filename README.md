@@ -2,7 +2,25 @@
 We need junior AngularJS developer (1 or 2 version, TypeScript only for version 2).
 So we have some small challenge right for you:
 
-At first we have up and running backend server at `https://93.183.203.13:10443`  wich listen for POST requests in JSON format. You need to do simple frontend for authentication.
+At first we have up and running backend server at `https://93.183.203.13:10443`  wich listen for POST requests in JSON format. You need to do simple frontend for login form. Login form shoud be created using Bootstrap and AngularJS.
+
+### Sketch for auth web page: ###
+
+Basic login form:
+
+![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/LoginPage.png)
+
+Login success:
+
+![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/Success.png)
+
+Login failed:
+
+![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/LoginFailed.png)
+
+HOTP code required:
+
+![alt tag](https://raw.github.com/geeksteam/VcFrontendTest/sketch/HOTPcode.png)
 
 
 ### Описание JSON полей запроса для авторизации: ###
