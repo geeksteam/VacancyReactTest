@@ -28,7 +28,7 @@ Your tasks are:
 ### Description of JSON request fields (in Russian):###
 ### Описание JSON полей запроса для авторизации: ###
 
-URL сервера для авторизации `https://93.183.203.13:10443/api/login`
+URL сервера для авторизации `https://93.183.203.13:10443/login`
 
 * __Login__: 
 		
