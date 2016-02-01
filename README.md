@@ -6,13 +6,10 @@ At first we have up and running backend server at `https://93.183.203.13:10443` 
 
 ### Sketch for auth web page: ###
 
-Basic login form:
+| Basic login form:  | Login success: |
+|--------------------|----------------|
+| ![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginPage.png) | ![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/Success.png) |
 
-![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginPage.png)
-
-Login success:
-
-![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/Success.png)
 
 Login failed:
 
