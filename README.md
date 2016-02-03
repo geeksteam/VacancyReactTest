@@ -10,7 +10,7 @@ Your tasks are:
 - [x] Create AngularJS authentication logic depending on requests described below;
 - [x] Your code must be good commented;
 - [x] Test it;
-- [x] Upload your code to your github repository and send the link to us;
+- [x] Upload your code to your github repository and send the link to vacancy @ geeks.team;
 - [x] Got a job of your dream B)
 
 
