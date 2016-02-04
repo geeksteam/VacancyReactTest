@@ -1,5 +1,5 @@
 # This is a test for the Frontend developer vacancy.#
-We are looking for a junior AngularJS developer (1 or 2 version, TypeScript only for version 2).
+We are looking for a junior AngularJS developer (1 or 2 version).
 There is a small challenge to test your HTML, CSS, Angularjs basic skills:
 
 We have up and running backend server at `https://93.183.203.13:10443`  wich listen for POST requests in JSON format, server reply to frontend in JSON format too.
