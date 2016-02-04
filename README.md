@@ -1,18 +1,19 @@
 # This is a test for the Frontend developer vacancy.#
 We are looking for a junior AngularJS developer (1 or 2 version, TypeScript only for version 2).
-So we have some small challenge to test your HTML, CSS, Angularjs basic skills:
+There is a small challenge to test your HTML, CSS, Angularjs basic skills:
 
-At first we have up and running backend server at `https://93.183.203.13:10443`  wich listen for POST requests in JSON format.
+We have up and running backend server at `https://93.183.203.13:10443`  wich listen for POST requests in JSON format, server reply to frontend in JSON format too.
 
 Your tasks are:
 
-- [x] Create authentication form using Bootstrap from sketch image attached below. Auth page must look __exactly__ as on a sketch image !
+- [x] Create authentication form using Bootstrap from sketch image attached below. Auth page must look __exactly__ as on a sketch image ! (Test your basic HTML, CSS);
 - [x] Create AngularJS authentication logic depending on requests described below;
 - [x] Your code must be good commented;
 - [x] Test it;
 - [x] Upload your code to your github repository and send the link to _vacancy @ geeks.team_;
 - [x] Got a job of your dream B)
 
+If any questions about task, mailto _vacancy @ geeks.team_.
 
 ### Sketches for auth web page: ###
 
@@ -25,23 +26,23 @@ Your tasks are:
 ![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginFailed.png) | ![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/HOTPcode.png)
 
 
-### Description of JSON request fields (in Russian):###
-### Описание JSON полей запроса для авторизации: ###
+### Description of JSON request fields (in Russian) to backend:###
+### Описание JSON полей запроса к backend серверу для авторизации: ###
 
 URL сервера для авторизации `https://93.183.203.13:10443/login`
 
 * __Login__: 
 		
-	Используется имя пользователя, добавленного в панели управления или `root` для супер-пользователя.
+	Используется имя пользователя.
 * __Password__: 
 		
-	Пароль пользователя панели или `root` пароль (если пользователь `root`).
+	Пароль пользователя панели.
 * __Hotp__: 
 		
-	Используется только если у пользователя под которым происходит авторизация включена "Двух уровневая авторизация".
+	Используется только если у пользователя под которым происходит авторизация включена "Двух уровневая авторизация" (Авторизация через Google Authenticator).
 ***
 
-### Ответы сервера: ###
+### JSON Ответы от backend сервера: ###
 
 #### Успешная авторизация: ####
 ```json
