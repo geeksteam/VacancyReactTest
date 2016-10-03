@@ -1,13 +1,17 @@
-# This is a test for the Frontend developer vacancy.#
-We are looking for a junior AngularJS developer (1 or 2 version).
+# AngularJS Frontend developer vacancy test#
+
+![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
+
+We are looking for a junior AngularJS developer (1 version).
 There is a small challenge to test your HTML, CSS, Angularjs basic skills:
 
-We have up and running backend server at `https://93.183.203.13:10443`  wich listen for POST requests in JSON format, server reply to frontend in JSON format too.
+Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default Angularjs post format), and reply to our frontend in `JSON` format too.
 
 Your tasks are:
 
 - [x] Create authentication form using Bootstrap from sketch image attached below. Auth page must look __exactly__ as on a sketch image ! (Test your basic HTML, CSS);
 - [x] Create AngularJS authentication logic depending on requests described below;
+- [x] Create a mock server for testing your angularjs application (You know, that you can't post request to another domain, because AJAX origin policy, so you need a simple mock server);
 - [x] Your code must be good commented;
 - [x] Test it;
 - [x] Upload your code to your github repository and send the link to _vacancy @ geeks.team_;
@@ -29,7 +33,7 @@ If any questions about task, mailto _vacancy @ geeks.team_.
 ### Description of JSON request fields (in Russian) to backend:###
 ### Описание JSON полей запроса к backend серверу для авторизации: ###
 
-URL сервера для авторизации `https://93.183.203.13:10443/login`
+URL для авторизации `/login`
 
 * __Login__: 
 		
