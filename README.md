@@ -1,16 +1,16 @@
-# AngularJS Frontend developer vacancy test#
+# AngularJS Junior developer vacancy test#
 
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
 
-We are looking for a junior AngularJS developer (1 version).
-There is a small challenge to test your HTML, CSS, Angularjs basic skills:
+We are looking for a junior `AngularJS` developer (version 1 not TypeScript).
+There is a small challenge to test your HTML, CSS, AngularJS basic skills:
 
-Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default Angularjs post format), and reply to our frontend in `JSON` format too.
+Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default AngularJS post format), and reply to our frontend in `JSON` format too.
 
 Your tasks are:
 
 - [x] Create authentication form using Bootstrap from sketch image attached below. Auth page must look __exactly__ as on a sketch image ! (Test your basic HTML, CSS);
-- [x] Create AngularJS authentication logic depending on requests described below;
+- [x] Create AngularJS authentication logic depending on requests described below (Views, Controllers);
 - [x] Create a mock server for testing your angularjs application (You know, that you can't post request to another domain, because AJAX origin policy, so you need a simple mock server);
 - [x] Your code must be good commented;
 - [x] Test it;
