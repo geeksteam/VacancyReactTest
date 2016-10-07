@@ -11,7 +11,7 @@ Your tasks are:
 
 - [x] Create authentication form using Bootstrap from sketch image attached below. Auth page must look __exactly__ as on a sketch image ! (Test your basic HTML, CSS);
 - [x] Create AngularJS authentication logic depending on requests described below;
-- [x] Use __Components___ in your project (latest Angularjs 1.5) and camelCase names.
+- [x] Use __Components__ in your project (latest Angularjs 1.5) and camelCase names.
 - [x] Create a mock server for testing your angularjs application (You know, that you can't post request to another domain, because AJAX origin policy, so you need a simple mock server);
 - [x] Your code must be good commented;
 - [x] Test it;
