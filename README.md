@@ -11,7 +11,8 @@ Asume we have up and running backend server wich listen for `POST` requests in `
 We suggest to use `mockserver-grunt` for testing your app: https://www.npmjs.com/package/mockserver-grunt.
 
 ### Create Login form
-Create Login form view using Bootstrap.
+Create Login form view using Bootstrap:
+
 ![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginPage.png)
 
 Our backend server have several reponses to your AngularJS frontend:
@@ -27,7 +28,7 @@ Our backend server respond:
 ```
 {"Auth":"Denied"}
 ```
-So we are denied to enter the app. Make `red` Login field of the form.
+So we are denied to enter the app. Make `red` Login field of the form:
 
 ![alt](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginFailed.png)
 
@@ -77,6 +78,7 @@ Out backend server respond:
 ```
 
 We are succesfull logged to your Application, and you must show this to the user:
+
 ![alt](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/Success.png)
 
 If you are using mock-server:
