@@ -1,6 +1,9 @@
 # AngularJS Junior developer vacancy test#
 
+
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
+![angulrjs](https://angularjs.org/img/AngularJS-large.png)
+
 
 [![Join the community chat at https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
@@ -124,7 +127,7 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 - [x] Comment your code,
 - [x] Use `Grunt`.
 
-Our full code rules and bp (and propably be yours ;) [AngularJS Code Best Practices](https://github.com/geeksteam/CodeRules/tree/master/AngularJS)
+Our full code rules and bestpractices (and propably be yours ;) [AngularJS Code Best Practices](https://github.com/geeksteam/CodeRules/tree/master/AngularJS)
 
 
 If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
