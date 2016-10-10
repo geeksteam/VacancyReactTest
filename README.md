@@ -3,7 +3,8 @@
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
 
 We are looking for a junior `AngularJS` developer (version 1 not TypeScript).
-There is a small challenge to test your HTML, CSS, AngularJS basic skills:
+
+##There is a small challenge to test your HTML, CSS, AngularJS basic skills:##
 
 Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default AngularJS post format), at `/login` URL and reply to our frontend in `JSON` format too.
 
