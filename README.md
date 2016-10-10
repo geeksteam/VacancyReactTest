@@ -124,7 +124,7 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 - [x] Comment your code,
 - [x] Use `Grunt`.
 
-Our full code rules (and propably be yours ;) [AngularJS Code Rules](https://github.com/geeksteam/manifest/blob/master/AngularJS.md)
+Our full code rules and bp (and propably be yours ;) [AngularJS Code Best Practices](https://github.com/geeksteam/CodeRules/tree/master/AngularJS)
 
 
 If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
