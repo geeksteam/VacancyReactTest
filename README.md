@@ -17,8 +17,8 @@ Create Login form view using Bootstrap.
 Our backend server have several reponses to your AngularJS frontend:
 ```
 - /login
- |- 1. "Auth success"
- |- 2. "Denied"
+ |- 1. "Login Denied"
+ |- 2. "Success"
 ```
 
 ### 1. Login Denied.
