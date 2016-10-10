@@ -2,6 +2,8 @@
 
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
 
+[![Join the community chat at https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 We are looking for a junior `AngularJS` developer (version 1 not TypeScript).
 
 ##There is a small challenge to test your HTML, CSS, AngularJS basic skills:##
@@ -123,4 +125,4 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 - [x] Use `Grunt`.
 
 
-If any questions about task, mailto _vacancy @ geeks.team_.
+If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
