@@ -2,25 +2,25 @@
 
 
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
-![angulrjs](https://angularjs.org/img/AngularJS-large.png)
+![react](https://facebook.github.io/react/img/logo.svg =250x250)
 
 
 [![Join the community chat at https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-We are looking for a junior `AngularJS` developer (version 1 not TypeScript).
+We are looking for a junior `ReactJS` developer.
 
-##There is a small challenge to test your HTML, CSS, AngularJS basic skills:##
+##There is a small challenge to test your HTML, CSS, React basic skills:##
 
-Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default AngularJS post format), at `/login` URL and reply to our frontend in `JSON` format too.
+Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default React post format), at `/login` URL and reply to our frontend in `JSON` format too.
 
-We suggest to use `mockserver-grunt` for testing your app: https://www.npmjs.com/package/mockserver-grunt.
+We suggest to use `mockserver-grunt` or ther mock server for testing your app: https://www.npmjs.com/package/mockserver-grunt. But you can test as you wish.
 
 ### Create Login form
 Create Login form view using Bootstrap:
 
-![alt tag](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginPage.png)
+![alt tag](https://raw.githubusercontent.com/geeksteam/VacancyFrontendTest/master/sketch/LoginPage.png)
 
-Our backend server have several reponses to your AngularJS frontend:
+Our backend server have several reponses to your React frontend:
 ```
 - /login
  |- 1. "Login Denied"
@@ -28,7 +28,7 @@ Our backend server have several reponses to your AngularJS frontend:
 ```
 
 ### 1. Login Denied.
-We post request to `/login` with incorrect (`foo,bar` in our case) `Username` and `Password` from our Login form.
+We `POST` request to `/login` with incorrect (`foo,bar` in our case) `Username` and `Password` from our Login form.
 Our backend server respond:
 ```
 {"Auth":"Denied"}
@@ -73,7 +73,7 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 ```
 
 ### 2. Auth succcess
-We post request to `/login` with correct (User:Password in our case) `Username` and `Password` from our Login form.
+We `POST` request to `/login` with correct (User:Password in our case) `Username` and `Password` from our Login form.
 Out backend server respond:
 ```
 {
@@ -120,14 +120,9 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 ```
 
 ### Project manifest (optional but can make your life easy):
-- [x] Use Angular 1.5 and use components and views,
-- [x] Use `camelCase` names,
-- [x] Name your controller as `someController`, and services `someService`,
-- [x] For http.Post requests and results create `Service`, don't do async requests in controllers,
-- [x] Comment your code,
-- [x] Use `Grunt`.
-
-Our full code rules and bestpractices (and propably be yours ;) [AngularJS Code Best Practices](https://github.com/geeksteam/CodeRules/tree/master/AngularJS)
+- [x] Bootstrap from https://github.com/facebookincubator/create-react-app,
+- [x] Use `CamelCase` names,
+- [x] Use feauture-based directory structure.
 
 
 If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
