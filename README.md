@@ -1,11 +1,11 @@
-# AngularJS Junior developer vacancy test#
+# ReactJS Junior developer Vacancy test#
 
 
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
-![react](https://facebook.github.io/react/img/logo.svg =250x250)
+<img src="https://tleunen.github.io/react-mdl/react.svg" width="250">
 
 
-[![Join the community chat at https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Join the community chat at https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 We are looking for a junior `ReactJS` developer.
 
@@ -38,7 +38,7 @@ So we are denied to enter the app. Make `red` Login field of the form:
 ![alt](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/LoginFailed.png)
 
 
-If you use mock server, there is mock for testing and developing:
+If you use mock server to emulate backend, there is mock for testing and developing:
 
 ```
 mockServerClient("localhost", 8080).mockAnyResponse({
@@ -86,7 +86,7 @@ We are succesfull logged to your Application, and you must show this to the user
 
 ![alt](https://raw.githubusercontent.com/geeksteam/VcFrontendTest/master/sketch/Success.png)
 
-If you are using mock-server:
+If you use mock server to emulate backend, there is mock for testing and developing:
 ```
 mockServerClient("localhost", 8080).mockAnyResponse({
     "httpRequest": {
@@ -122,7 +122,8 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 ### Project manifest (optional but can make your life easy):
 - [x] Bootstrap from https://github.com/facebookincubator/create-react-app,
 - [x] Use `CamelCase` names,
+- [x] Using Redux would be + in your karma.
 - [x] Use feauture-based directory structure.
 
 
-If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/AngularJSVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/AngularJSVacancy?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
+If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
