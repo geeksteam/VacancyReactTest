@@ -2,7 +2,7 @@
 
 
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
-<img src="https://tleunen.github.io/react-mdl/react.svg" width="250">
+<img src="https://react-mdl.github.io/react-mdl/react.svg" width="250">
 
 
 [![Join the community chat at https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
