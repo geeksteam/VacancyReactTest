@@ -2,12 +2,14 @@
 
 
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg" width="80">
 <img src="https://react-mdl.github.io/react-mdl/react.svg" width="250">
 
 
-[![Join the community chat at https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Join the community chat at https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://badges.gitter.im/Join%20Chat.svg)]
+(https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-We are looking for a junior `ReactJS` developer.
+We are looking for a junior `React+Redux` reactive :rocket: developer.
 
 ##There is a small challenge to test your HTML, CSS, React basic skills:##
 
