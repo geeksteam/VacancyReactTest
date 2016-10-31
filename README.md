@@ -123,9 +123,10 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 ```
 
 ### Project manifest (optional but can make your life easy):
-- [x] Bootstrap React from https://github.com/facebookincubator/create-react-app,
+- [x] Our best practices and code rules: https://github.com/geeksteam/CodeRules,
+- [x] Bootstrap React from: https://github.com/facebookincubator/create-react-app,
 - [x] Use `CamelCase` names,
-- [x] Using Redux would be + in your karma.
+- [x] Using Redux would be + in your karma,
 - [x] Use feauture-based directory structure.
 
 
