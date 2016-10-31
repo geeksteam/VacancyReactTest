@@ -6,8 +6,9 @@
 <img src="https://react-mdl.github.io/react-mdl/react.svg" width="250">
 
 
-[![Join the community chat at https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://badges.gitter.im/Join%20Chat.svg)]
-(https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Join the community chat at https://gitter.im/geeksteam/ReactVacancy]
+(https://badges.gitter.im/Join%20Chat.svg)]
+(https://gitter.im/geeksteam/ReactVacancy)
 
 We are looking for a junior `React+Redux` reactive :rocket: developer.
 
@@ -128,4 +129,4 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 - [x] Use feauture-based directory structure.
 
 
-If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or mailto _vacancy @ geeks.team_.
+If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/ReactVacancy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/ReactVacancy) or mailto _vacancy @ geeks.team_.
