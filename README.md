@@ -6,7 +6,7 @@
 <img src="https://react-mdl.github.io/react-mdl/react.svg" width="250">
 
 
-[![Join the community chat at https://gitter.im/geeksteam/ReactVacancy]
+[![Join the community chat at https://gitter.im/geeksteam/Vacancies]
 (https://badges.gitter.im/Join%20Chat.svg)]
 (https://gitter.im/geeksteam/Vacancies)
 
@@ -130,4 +130,4 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 - [x] Use feauture-based directory structure.
 
 
-If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/Vacancies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/ReactVacancy) or mailto _vacancy @ geeks.team_.
+If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/Vacancies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies) or mailto _vacancy @ geeks.team_.
