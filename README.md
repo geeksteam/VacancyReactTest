@@ -1,4 +1,4 @@
-# ReactJS Junior developer Vacancy test#
+# ReactJS Junior developer Vacancy test #
 
 
 ![geeks](https://github.com/geeksteam/VacancyFrontendTest/raw/master/logo-git.png)
@@ -10,9 +10,9 @@
 (https://badges.gitter.im/Join%20Chat.svg)]
 (https://gitter.im/geeksteam/Vacancies)
 
-We are looking for a junior `React+Redux` reactive :rocket: developer.
+We are looking for a junior `React and Mobx` reactive :rocket: developer.
 
-##There is a small challenge to test your HTML, CSS, React basic skills:##
+## There is a small challenge to test your HTML, CSS, React basic skills: ##
 
 Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default React post format), at `/login` URL and reply to our frontend in `JSON` format too.
 
@@ -123,11 +123,14 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 ```
 
 ### Project manifest (optional but can make your life easy):
-- [x] Our best practices and code rules: https://github.com/geeksteam/CodeRules,
-- [x] Bootstrap React from: https://github.com/facebookincubator/create-react-app,
-- [x] Use `CamelCase` names,
-- [x] Using Redux would be + in your karma,
-- [x] Use feauture-based directory structure.
+- [x] Read our best practices and code rules: https://github.com/geeksteam/CodeRules,
 
+- [x] Bootstrap React from react-create-app: https://github.com/facebookincubator/create-react-app,
+
+- [x] Using MobX would be + in your karma,
+- [x] Activate decorators for MobX and react-create-app: https://github.com/geeksteam/CodeRules/blob/master/React/Readme.md#mobx
+
+- [x] Use `CamelCase` names,
+- [x] Use feauture-based directory structure.
 
 If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/Vacancies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies) or mailto _vacancy @ geeks.team_.
