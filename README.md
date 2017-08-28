@@ -5,10 +5,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg" width="80">
 <img src="https://react-mdl.github.io/react-mdl/react.svg" width="250">
 
-
-[![Join the community chat at https://gitter.im/geeksteam/Vacancies]
-(https://badges.gitter.im/Join%20Chat.svg)]
-(https://gitter.im/geeksteam/Vacancies)
+If you have any questions, welcome to our Gitter Chat 
+[![https://gitter.im/geeksteam/Vacancies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies)
 
 We are looking for a junior `React and Mobx` reactive :rocket: developer.
 
