@@ -121,7 +121,7 @@ mockServerClient("localhost", 8080).mockAnyResponse({
 ```
 
 ### Project manifest (optional but can make your life easy):
-- [x] Read our best practices and code rules: https://github.com/geeksteam/CodeRules,
+- [x] Read our best practices and code rules for React and Mobx: https://github.com/geeksteam/CodeRules#react,
 
 - [x] Bootstrap React from react-create-app: https://github.com/facebookincubator/create-react-app,
 
