@@ -5,12 +5,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg" width="80">
 <img src="https://react-mdl.github.io/react-mdl/react.svg" width="250">
 
+We are looking for a junior `React and Mobx` reactive :rocket: developer.
+
 If you have any questions, welcome to our Gitter Chat 
 [![https://gitter.im/geeksteam/Vacancies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/Vacancies)
 
-We are looking for a junior `React and Mobx` reactive :rocket: developer.
+#### Please send your CV and link to your github repo with resolved test challenge to gitter or vacancy @ geeks.team. ####
 
-## There is a small challenge to test your HTML, CSS, React basic skills: ##
+## Small and simple challenge to test your HTML, CSS, React basic skills: ##
 
 Asume we have up and running backend server wich listen for `POST` requests in `JSON` format (default React post format), at `/login` URL and reply to our frontend in `JSON` format too.
 
